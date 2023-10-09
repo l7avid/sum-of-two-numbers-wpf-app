@@ -1,0 +1,42 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers_MarkupCompile.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers_MarkupCompile.lref
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.g.resources
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\refint\SumOfTwoNumbers.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\ref\SumOfTwoNumbers.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net6.0-windows\SumOfTwoNumbers.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers_MarkupCompile.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers_MarkupCompile.lref
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.g.resources
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\refint\SumOfTwoNumbers.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\28 - WPF03 Sum of two numbers\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net6.0-windows\ref\SumOfTwoNumbers.dll
